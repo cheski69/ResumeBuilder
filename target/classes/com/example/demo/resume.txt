@@ -1,0 +1,16 @@
+First Name: 
+Surname: 
+Address 1: 
+Address 2: 
+Contact: 
+Email: 
+Objective: 
+Experience: 
+Education: 
+Awards: 
+Certifications: 
+Achievements: 
+Languages: 
+Hobbies: 
+Strengths: 
+Skills: 
